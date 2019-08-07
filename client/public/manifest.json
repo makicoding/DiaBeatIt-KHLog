@@ -3,7 +3,7 @@
   "short_name": "DiaBeatIt",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  // "display": "standalone",
+  // "display": "standalone",   // An app-like experience, no browser UI, only system UI (however note that there is no browser refresh button when using standalone)
   "display": "minimal-ui",
   "Scope": "/",
   "start_url": "/",
