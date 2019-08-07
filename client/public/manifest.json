@@ -3,7 +3,8 @@
   "short_name": "DiaBeatIt",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  "display": "standalone",
+  // "display": "standalone",
+  "display": "minimal-ui",
   "Scope": "/",
   "start_url": "/",
   "icons": [
