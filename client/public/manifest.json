@@ -3,9 +3,10 @@
   "name": "DiaBeatIt Single User",
   "icons": [
     {
-      "src": "/assets/sRGB_PhotoshopQuality8/sRGB_1000px_DiaBeatIt_Thumbnail.jpg",
+      "src": "/assets/thumbnails/sRGB_PhotoshopQuality8/sRGB_1000px_DiaBeatIt_Thumbnail.jpg",
       "type": "image/jpg",
       "sizes": "1000x1000"
+      // "sizes": "64x64 32x32 24x24 16x16"
     }
   ],
   "start_url": ".",
